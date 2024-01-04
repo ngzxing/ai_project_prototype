@@ -22,7 +22,7 @@ st.markdown(
     </style>
     """,unsafe_allow_html=True
 )
-st.image("./images/pantrypal.png",width = 400)
+st.image("./images/pantrypal.png")
 with st.form("Login"):
 
     st.write("# Sign Up")
